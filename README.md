@@ -7,8 +7,8 @@ Simple Iphone themed calculator
 
 ## Screens 
 
-<img width="393" alt="IMG_0701" src="https://github.com/user-attachments/assets/4652c789-d4cb-4b58-87f2-a4ba2e360388" />
+<img width="400" alt="IMG_0701" src="https://github.com/user-attachments/assets/4652c789-d4cb-4b58-87f2-a4ba2e360388"/>
 
-<img width="368" alt="IMG_9236" src="https://github.com/user-attachments/assets/46e7d409-b414-4822-83ab-8c40fc877053" />
+<img width="400" alt="IMG_9236" src="https://github.com/user-attachments/assets/46e7d409-b414-4822-83ab-8c40fc877053"/>
 
-<img width="377" alt="IMG_1851" src="https://github.com/user-attachments/assets/016ed17e-7065-425c-b812-ac05a4e7a18b" />
+<img width="400" alt="IMG_1851" src="https://github.com/user-attachments/assets/016ed17e-7065-425c-b812-ac05a4e7a18b"/>
